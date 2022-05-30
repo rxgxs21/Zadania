@@ -97,6 +97,7 @@ namespace DataGrindView
                 dataGridABCD.Rows[Id].Cells[2].Value = textBoxC.Text;
                 dataGridABCD.Rows[Id].Cells[3].Value = textBoxD.Text;
                 afterChange();
+                Id = 0;
             }
             else
             {
