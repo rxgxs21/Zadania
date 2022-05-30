@@ -1,0 +1,16 @@
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.exe
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.deps.json
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.runtimeconfig.json
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.runtimeconfig.dev.json
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.dll
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\ref\Obliczanie liczby kontrolnej EAN-13.dll
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\bin\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.pdb
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.csproj.AssemblyReference.cache
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.AssemblyInfoInputs.cache
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.AssemblyInfo.cs
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.csproj.CoreCompileInputs.cache
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.dll
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\ref\Obliczanie liczby kontrolnej EAN-13.dll
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.pdb
+C:\Users\rogos\Projects\C#\Obliczanie liczby kontrolnej EAN-13\Obliczanie liczby kontrolnej EAN-13\obj\Debug\net5.0\Obliczanie liczby kontrolnej EAN-13.genruntimeconfig.cache

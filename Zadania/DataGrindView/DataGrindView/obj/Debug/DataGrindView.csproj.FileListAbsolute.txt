@@ -1,0 +1,11 @@
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\bin\Debug\DataGrindView.exe.config
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\bin\Debug\DataGrindView.exe
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\bin\Debug\DataGrindView.pdb
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.csproj.AssemblyReference.cache
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.Form1.resources
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.Properties.Resources.resources
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.csproj.GenerateResource.cache
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.csproj.CoreCompileInputs.cache
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.exe
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.pdb
+C:\Users\rogos\Projects\C#\DataGrindView\DataGrindView\obj\Debug\DataGrindView.Form2.resources

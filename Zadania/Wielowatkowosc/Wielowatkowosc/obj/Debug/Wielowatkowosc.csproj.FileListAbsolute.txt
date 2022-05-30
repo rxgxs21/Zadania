@@ -1,0 +1,10 @@
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe.config
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.pdb
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.AssemblyReference.cache
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Form1.resources
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Properties.Resources.resources
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.GenerateResource.cache
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CoreCompileInputs.cache
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.exe
+C:\Users\rogos\Projects\C#\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.pdb

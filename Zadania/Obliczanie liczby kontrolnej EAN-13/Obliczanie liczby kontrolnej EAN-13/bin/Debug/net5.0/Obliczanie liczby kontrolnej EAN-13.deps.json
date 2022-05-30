@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Obliczanie liczby kontrolnej EAN-13/1.0.0": {
+        "runtime": {
+          "Obliczanie liczby kontrolnej EAN-13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obliczanie liczby kontrolnej EAN-13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
